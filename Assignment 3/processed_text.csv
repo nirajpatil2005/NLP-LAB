@@ -1,0 +1,13 @@
+original_text,processed_text,label
+"Hello, how are you?",hello,1
+Hi there!,hi,1
+Good morning,good morning,1
+Can you help me with my order?,help order,2
+I need support for my account,need support account,2
+Please reset my password,please reset password,2
+This app keeps crashing,app keep crashing,0
+I am unhappy with the service,unhappy service,0
+The delivery was very late,delivery wa late,0
+Hey!,hey,1
+Could you tell me the price?,could tell price,2
+Why is this so slow?,slow,0
