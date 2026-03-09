@@ -9,21 +9,6 @@ A comprehensive collection of Natural Language Processing assignments covering f
 
 ---
 
-## 📚 Table of Contents
-
-- [Overview](#overview)
-- [Technologies Used](#technologies-used)
-- [Assignments](#assignments)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Key Concepts Covered](#key-concepts-covered)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
-
 ## 🎯 Overview
 
 This repository contains a complete set of NLP laboratory assignments designed to provide hands-on experience with various natural language processing techniques and algorithms. Each assignment is implemented as a Jupyter notebook with detailed explanations, code, and visualizations.
